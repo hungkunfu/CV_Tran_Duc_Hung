@@ -48,7 +48,7 @@ educations.push(nursing, technology);
 person.educations = educations;
 
 let exps = [];
-let exp1 = "Tháng đầu tiên ước chừng mình sẽ không làm được website nào, nhưng vì sự tìm tòi học hỏi từ các bạn và hướng dẫn viên mình đã tự làm ra trang web cơ bản đầu tiên bằng html và javascrip"
+let exp1 = "Tháng đầu tiên ước chừng mình sẽ không làm được website nào, nhưng vì sự tìm tòi học hỏi từ các bạn và hướng dẫn viên mình đã tự làm ra trang web cơ bản đầu tiên bằng html và javascript"
 let exp2 = " Tiếp theo học được các kiến thức cơ bản cho đến nâng cao về ngôn ngữ C# để xây dựng ứng dụng backend. Sau 3 tháng đã sử dụng công nghệ NET CORE , Framework NET MVC xây dựng được website quản lý và bán hàng và bản thân đã biết quản lý công việc bằng Product Backlog.";
 let exp3 = "Trong tháng tiếp theo được biết thêm công nghệ Angular để rồi cùng hai thành viên khác tạo thành nhóm xây dựng nên ứng dụng web . Từ đó thu nhặt được kĩ năng làm việc nhóm cho bản thân mình, rút ra được tinh thần đồng đội và tinh thần trách nhiệm với công việc mình đã và đang làm.";
 
