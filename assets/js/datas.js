@@ -12,7 +12,7 @@ let character = "Hiền lành, vui vẻ, thẳng thắng, cầu tiến và có t
 
 var person = {}
 person.id = 1;
-person.avatar = "assets/img/img.jpg";
+person.avatar = "assets/img/cv.jpg";
 person.name = "Trần Đức Hùng";
 person.gender = "Nam";
 person.dob = "17/09/1996";
@@ -27,14 +27,14 @@ person.shortTaget = shortTaget;
 person.longTaget = longTaget;
 person.introduce = introduce;
 
-let html_css_js = new Skill(1, "HTML, CSS, JAVASCRIPT, BOOTSTRAP", 65, 1);
-let net_core = new Skill(2, "NET CORE", 60, 1);
-let asp_net_mvc = new Skill(3, "ASP.NET MVC", 65, 1);
-let api = new Skill(4, "WEB API", 60, 1)
+let html_css_js = new Skill(1, "HTML, CSS, JAVASCRIPT, BOOTSTRAP", 60, 1);
+let net_core = new Skill(2, "NET CORE 3.1", 60, 1);
+let asp_net_mvc = new Skill(3, "ASP.NET MVC 3.1", 65, 1);
+let api = new Skill(4, "RESTFUL API", 50, 1)
 let ajax = new Skill(5, "AJAX", 45, 1);
-let database_sp = new Skill(6, "SQL SERVER", 55, 1);
-let scrum_git = new Skill(7, "SCRUM, GIT", 40, 1);
-let angualar = new Skill(8, "ANGULAR", 45, 1)
+let database_sp = new Skill(6, "SQL SERVER 2019", 55, 1);
+let scrum_git = new Skill(7, "SCRUM, GITHUB", 40, 1);
+let angualar = new Skill(8, "ANGULAR 11", 40, 1)
 let teamwork_search = new Skill(9, "TEAMWORK, SEARCH", 60, 1);
 
 
